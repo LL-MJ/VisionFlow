@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vitest/
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+data/
+uploads/
+models/
+runs/
+outputs/
